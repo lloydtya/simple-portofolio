@@ -12,7 +12,7 @@ Tujuan utama dari pembuatan portfolio ini adalah **sebagai media belajar** sekal
 
 ## 🚀 Demo Website
 Kunjungi portfolio saya di sini:  
-👉 [Portfolio Live]()  
+👉 [Portfolio Live](https://lloydtya.github.io/simple-portofolio/)  
 
 ## 📌 Catatan
 Saya membuat ini untuk belajar 
